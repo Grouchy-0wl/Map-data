@@ -1,8 +1,8 @@
 {
-  "id": 372,
-  "order": "47.00000000000000000000",
-  "Event": "On 2023-12-30, EIGS terrorists claimed an IED attack near Ménaka on a joint patrol of FAMa and Russian mercenaries (Africa Corps), killing several and evacuating injured by helicopter. Mali remains dangerous for foreigners due to terrorism.",
-  "Description": "On December 30, 2023, EIGS terrorists carried out an IED attack near Ménaka targeting a joint patrol of the Malian Armed Forces (FAMa) and Russian mercenaries from the Africa Corps, resulting in multiple casualties and the evacuation of injured personnel by helicopter. This incident highlights the ongoing security risks in Mali, particularly the dangers posed by terrorism to foreign nationals.",
+  "id": 373,
+  "order": "48.00000000000000000000",
+  "Event": "On 2023-12-30, EIGS terrorists claimed an IED attack near Ménaka targeting a joint patrol of Mali forces and Russian mercenaries; multiple casualties and evacuations reported. The area is increasingly dangerous for foreigners due to terrorism.",
+  "Description": "On December 30, 2023, terrorists from the Islamic State in the Greater Sahara (EIGS) claimed responsibility for an improvised explosive device (IED) attack near Ménaka, Mali. The attack targeted a joint patrol comprising Mali security forces and Russian mercenaries, resulting in multiple casualties and necessitating evacuations. The incident highlights the escalating security risks and the dangerous environment for foreigners in the region due to ongoing terrorist activity.",
   "Date": "2023-12-30",
   "Event_hash": null,
   "extraction_json": null,
@@ -19,7 +19,7 @@
   "Source": "Twitter Web App",
   "Source Location": "",
   "Source name": "Wamaps",
-  "Slant": "The message presents a security-focused slant emphasizing the danger terrorism poses in Mali, especially to foreigners.",
-  "Reliability": "B2 - The information is specific in detail and date, but it relies on claims by a terrorist group without independent verification, so moderate confidence is warranted.",
+  "Slant": "Neutral, factual reporting of a terrorist attack and its consequences.",
+  "Reliability": "B2 - The information likely comes from claims by the EIGS group and secondary reports of casualties and evacuations, which are common in conflict reporting but may need further independent verification.",
   "Actor": "EIGS terrorists"
 }
