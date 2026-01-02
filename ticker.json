@@ -1,8 +1,8 @@
 {
-  "id": 342,
-  "order": "24.00000000000000000000",
-  "Event": "Political awareness message about terrorism and security issues in Nigeria.",
-  "Description": "A political awareness message was issued highlighting the ongoing terrorism and security challenges in Nigeria. The exact date and location within Nigeria are unspecified, but the message aims to inform the public about the threats posed by terrorist groups and the need for increased security measures. The message is likely from Nigerian authorities or security-focused organizations to raise awareness and encourage vigilance among citizens.",
+  "id": 346,
+  "order": "28.00000000000000000000",
+  "Event": "Israeli PM Netanyahu promises support for persecuted Christian communities in Nigeria and globally.",
+  "Description": "Israeli Prime Minister Netanyahu has pledged support for persecuted Christian communities in Nigeria and around the world. This statement was made recently to highlight Israel's commitment to aiding vulnerable religious groups facing persecution globally. The primary motivation behind this promise is to address the ongoing violence and discrimination against Christians, particularly in regions like Nigeria where such communities are under threat.",
   "Date": "2024-04-27",
   "Event_hash": null,
   "extraction_json": null,
@@ -16,10 +16,10 @@
   "video URL 1": "",
   "video URL 2": "",
   "video URL 3": "",
-  "Source": "Twitter for Android",
-  "Source Location": "",
-  "Source name": "MK MK",
-  "Slant": "Cautionary and informative, emphasizing awareness and prevention of terrorism risks",
-  "Reliability": "B2 - The message is likely credible as a political or security advisory, but lacks specific details, dates, and sources to rate higher.",
-  "Actor": "Nigerian authorities or security organizations"
+  "Source": "Twitter for iPhone",
+  "Source Location": "Nigeria",
+  "Source name": "FirstDaily",
+  "Slant": "Supportive of persecuted Christian communities, reflecting a humanitarian and political stance.",
+  "Reliability": "A1 - The information is a direct statement by a prominent political leader, likely reported in reliable news sources.",
+  "Actor": "Israeli Prime Minister Benjamin Netanyahu"
 }
