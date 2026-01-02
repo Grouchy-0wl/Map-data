@@ -1,8 +1,8 @@
 {
-  "id": 346,
-  "order": "28.00000000000000000000",
-  "Event": "Israeli PM Netanyahu promises support for persecuted Christian communities in Nigeria and globally.",
-  "Description": "Israeli Prime Minister Netanyahu has pledged support for persecuted Christian communities in Nigeria and around the world. This statement was made recently to highlight Israel's commitment to aiding vulnerable religious groups facing persecution globally. The primary motivation behind this promise is to address the ongoing violence and discrimination against Christians, particularly in regions like Nigeria where such communities are under threat.",
+  "id": 348,
+  "order": "30.00000000000000000000",
+  "Event": "Video alleges misinformation about bombing in Nigeria, mentioning snakes and nuclear weapons.",
+  "Description": "A video has circulated alleging misinformation about a bombing event in Nigeria, falsely associating the incident with snakes and nuclear weapons. The timing of the bombing is unspecified, but the misinformation seems aimed at creating confusion or fear regarding the incident. The primary source or creator of the video is unknown, but it implicates unknown actors spreading false narratives about the bombing's nature.",
   "Date": "2024-04-27",
   "Event_hash": null,
   "extraction_json": null,
@@ -16,10 +16,10 @@
   "video URL 1": "",
   "video URL 2": "",
   "video URL 3": "",
-  "Source": "Twitter for iPhone",
-  "Source Location": "Nigeria",
-  "Source name": "FirstDaily",
-  "Slant": "Supportive of persecuted Christian communities, reflecting a humanitarian and political stance.",
-  "Reliability": "A1 - The information is a direct statement by a prominent political leader, likely reported in reliable news sources.",
-  "Actor": "Israeli Prime Minister Benjamin Netanyahu"
+  "Source": "Twitter for Android",
+  "Source Location": "",
+  "Source name": "john wormley",
+  "Slant": "The message appears to have a disinformation slant, potentially intending to confuse or mislead about the true nature of the bombing incident in Nigeria.",
+  "Reliability": "C3 - The information is based on a video accused of spreading misinformation, indicating low reliability and requires further verification.",
+  "Actor": "Unknown creators of the misinformation video"
 }
